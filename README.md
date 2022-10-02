@@ -8,3 +8,5 @@ At first I tried manual methods to do this. I also mentioned a few ways of evalu
 I gathered a lot of info and put it into this file as a teaching material for class that I was teaching in.
 
 I did not put all of my teaching material here but THIS IS THE HIGHLIGHT OF WHAT I TAUGHT, and as always I hope that it can help someone out.
+
+Random Search and Grid search have been used in this file.
